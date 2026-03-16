@@ -36,7 +36,7 @@ Healthy Habits Pro is a beautifully designed, intuitive habit and water tracking
 
 *(Add your app screenshots here by replacing these placeholders or removing this section)*
 
-`![Home Screen](placeholder_url) | ![Habit Tracker](placeholder_url) | ![Water Tracker](placeholder_url)`
+`![Home Screen](assets/images/home.png) | ![Habit Tracker](assets/images/routines.png) | ![Water Tracker](assets/images/water.png) | ![Splash Screen](assets/images/splash.png) | ![Routine Done](assets/images/routine_done.png)| ![Start Screen](assets/images/startscreen.png)| ![water done](assets/images/waterdone.png) `
 
 ## ⚙️ How to Run
 
